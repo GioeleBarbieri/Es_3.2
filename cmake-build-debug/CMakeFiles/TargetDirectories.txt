@@ -1,0 +1,3 @@
+C:/Users/gioel/CLionProjects/ES3.2/cmake-build-debug/CMakeFiles/ES3_2.dir
+C:/Users/gioel/CLionProjects/ES3.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gioel/CLionProjects/ES3.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
